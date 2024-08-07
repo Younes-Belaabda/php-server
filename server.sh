@@ -1,1 +1,1 @@
-php -S 127.0.0.1:8080 -t public
+./bin/php/php-8.3.10/php -S 127.0.0.1:8080 -t public

@@ -1,0 +1,1795 @@
+|CTAG_1663167284_18455859_4204_0
+|omposer
+C:\Users\xx97\Desktop\digidocu 
+|d ~
+|s
+|d ..
+|s
+|d ..
+|s
+|d Users\
+|s
+|d xx97\
+|s
+cd D
+|d Desktop\
+|lear
+|s
+cd digidocu\
+|ode .
+|omposer install
+|omposer install
+code
+mkdir PHP
+|hp -v
+|omposer
+|lear
+composer require laravel/laravel ged-app
+composer installer require laravel/laravel ged-app
+|ls
+composer install laravel/laravel ged-app
+composer install require laravel/laravel ged-app
+composer create-project
+|s
+|ls
+composer init ged-app
+composer create-project laravel/laravel ged-app
+|omposer suggest
+|d ged-app\
+composer suggest
+|ls
+php artisan
+|hp artisan serve
+php artisan make:model
+php artisan make:model global/File
+php artisan make:model Filesystem/File
+|hp artisan make:controller UsersController
+php artisan make:controller UsersController
+|hp artisan serve
+php artisan make:middleware
+php artisan make:middleware Nothing
+|hp artisan serve
+|hp artisan serve
+cd ged-app\
+|hp artisan serve
+|hp artisan migrate
+cls
+php artisan make:model Admin -h
+php artisan make:model Admin -m
+|hp artisan migrate
+|lear
+php artisan db:seed
+|hp artisan serve
+|hp artisan inspire
+|hp artisan inspire
+|hp artisan inspire
+|hp artisan inspire
+|hp artisan inspire
+|hp artisan inspire
+|hp artisan inspire
+php artisan inspire
+|hp artisan serve
+|lear
+|lear
+|hp artisan serve
+|ysql
+|ysql username=root password=
+|lear
+|hp artisan serve
+mysql username=root password=
+mysql 
+|ysql username=root password=;
+mysql username=root password=; SELECT * FROM DATABASES;
+mysql username=root password=;
+|hp artisan serve
+|hp artisan serve
+|hp artisan serve
+|hp artisan serve
+|hp artisan serve
+composer
+composer install laravel/installer hakim-app
+composer require laravel/installer hakim-app
+composer require laravel/installer hakimoapp
+composer create-project laravel/laravel example-app
+composer global require "brackets/craftable-installer" 
+|lear
+craftable new hkmoapp
+|s
+|d hkmoapp\
+|ode .
+|d ~
+|s
+|d ..
+|s
+|d ..
+|s
+|d ..
+|s
+|d ~
+|d Users\
+|s
+cd Public\
+|s
+|d ..
+|d xx97\
+|s
+|d Desktop\
+|s
+cd almutadaber\
+|lear
+|hp -v
+|hp artisan serve
+|omposer require livewire/livewire
+|hp artisan serve
+php artisan make:livewire Quran
+|d ..
+|d ..
+|s
+cd Users\xx97\Desktop\www\
+|s
+cd CALLCENTER_APP\
+|lear
+|omposer require livewire/livewire
+php artisan make:livewire ContratCrud
+|d ~
+|d ..
+|d .
+|d ..
+|d Users\xx97\Desktop\FREELANCE\atqn-clone\
+|omposer dump-autoload
+|omposer dump-autoload
+|hp -v
+|hp -v
+cd ..\..\Users\xx97\Desktop\FREELANCE\atqn-clone\
+|omposer dump-autoload
+|omposer dump-autoload
+composer dump-autoload
+C:\Users\xx97\Desktop\FREELANCE\Herak-Center 
+|d ..
+|d ..
+|d ..
+|s
+|d Users\
+|s
+|d xx97\
+|s
+|d Desktop\
+|s
+|d FREELANCE\
+|d Herak-Center\
+|omposer install
+|s
+|d B
+cd "Builder Pattern\
+|hp -v
+|hp .\index.php 
+|hp .\index.php 
+|hp .\index.php 
+php .\index.php 
+composer create-project laravel/laravel bel3-portfolio
+|d bel3-portfolio\
+|ode .
+|s
+|d bel3-portfolio\
+|ode .
+|d Blog\
+|d ..
+|s
+cd bel3-portfolio\
+|ode .
+|ode .
+composer create-project laravel/laravel call-manager-app
+cd call-manager-app\
+|ode .
+|omposer require livewire/livewire
+|s
+|d ~
+|s
+|d ..
+|d ..
+|s
+|d Users\
+|s
+|d xx97\
+|s
+|d Desktop\
+|lear
+|s
+|d FREELANCE\
+|d atqn
+|d ..
+|d atqn-clone\
+|ode .
+|d ~
+|d ../../
+|d Users\xx97\Desktop\FREELANCE\
+|s
+cd Herak-Center\
+|ode .
+|d hkmoapp\
+|ode .
+|hp artisan serve
+|d ~
+|d ../../
+|s
+|d Users\
+|d xx97\
+|s
+|d Desktop\
+cd "PHP Curl\
+|lear
+composer require php-ai/php-ml
+|hp -v
+|ode .
+|ode .
+|s
+|d ~
+|d ..
+|s
+|d ..
+|s
+|d Users\
+|s
+|d xx97\
+|d Desktop\
+|d FREELANCE\
+|lear
+|s
+|d atqn
+|d ..
+|d atqn-clone\
+|ode .
+|d ../../
+|s
+|d Users\
+|s
+|d xx97\
+|d Desktop\
+|lear
+|s
+|d FREELANCE\
+|lear
+|d atqn-clone\
+|lear
+|ode .
+|hp artisan serve
+cd ~/desktop
+|d ..
+|d ..
+|s
+|d Users\xx97\
+|s
+|d Desktop\
+|s
+cd FREELANCE\atqn-clone\
+|lear
+ composer require spatie/laravel-permission
+|lear
+php artisan vendor:publish --provider="Spatie\Permission\PermissionServiceProvider"
+|hp artisan migrate
+|d ..
+|d ..
+|s
+cd Users\xx97\Desktop\FREELANCE\atqn-clone\
+|ode .
+|d ..
+|d ..
+|d Users\xx97\
+|s
+|d Desktop\
+|s
+cd w
+|d www\
+|lear
+|s
+|d ..
+|d FREELANCE\
+|d atqn
+|d ..
+|d atqn-clone\
+|ode .
+|hp artisan serve
+|d ..
+|d ..
+|s
+|d Users\xx97\
+|d Desktop\
+composer create-project laravel/laravel G-Centre
+|d G-Centre\
+|ode .
+|d ..
+|d ..
+|d Users\xx97\Desktop\
+|d G-Centre\
+|omposer require revolution/laravel-google-sheets
+composer require revolution/laravel-google-sheets
+php artisan vendor:publish --provider="PulkitJalan\Google\GoogleServiceProvider" --tag="config"
+|d ../
+|d ..
+|s
+|d Users\xx97\Desktop\
+|d G-Centre\
+|lear
+|omposer require livewire/livewire
+|omposer require livewire/livewire
+|d ..
+|d ..
+|d Users\
+|d xx97\
+|d Desktop\
+|lear
+composer create-project laravel/laravel AhdthAlhulul
+|d ..
+|d ..
+|d Users\xx97\Desktop\
+|lear
+cd AhdthAlhulul\
+composer require livewire/livewire
+|d ..
+|d ..
+|d Users\xx97\Desktop\
+composer require maatwebsite/excel
+|d ~
+cd ..\..\Users\xx97\Desktop\
+|s
+|d G-Centre\
+|ode .
+|s
+|d ..
+|d ~
+cd .~
+|d /
+|s
+cd laragon\
+|d www\
+|d /
+|d Users\xx97\Desktop\
+|s
+cd FREELANCE\atqn-layout\
+|ode .
+|d /
+|d Users\xx97\Desktop\
+|s
+cd FREELANCE\
+|s
+|d atqn-clone\
+|ode .
+|d ~
+|d .
+cd C
+cd \
+|s
+|d Users\xx97\
+|d Desktop\
+|s
+|aravel
+laravel new Parfum07
+code .\Parfum07
+|s
+cd B
+cd Blog\
+|s
+|d ..
+cd hkmoapp\
+|s
+code  .
+|hp artisan serve
+|d /
+|d Users\xx97\Desktop\FREELANCE\
+|s
+cd atqn-clone\
+|ode .
+|hp artisan serve
+|d !
+cd *
+|d !
+|d /
+cd Users\xx97\Desktop\FREELANCE\
+code atqn-clone
+cd "SpreedSheet app\
+|ode .
+cd mkdir filesystem-php-app
+mkdir filesystem-php-app
+|s
+cd filesystem-php-app\
+|lear
+|ode .
+|d /
+|d Users\xx97\Desktop\
+composer create-project laravel/laravel A7datAl7olol
+code A7datAl7olol\
+|kdir PHP101
+code PHP101\
+|d PHP101\
+|lear
+|d /
+|s
+|d Users\
+|s
+|d xx97\
+|s
+|d Desktop\
+|lear
+composer create-project laravel/laravel bassam-app
+cd bassam-app\
+|ode .
+|d /
+|s
+|d Users\xx97\Desktop\
+composer create-project laravel/laravel Blog
+cd blog
+code.
+|ode .
+|hp -v
+|d /
+|d Users\xx97\Desktop\
+|s
+cd prwb_2223_a09\
+|ode .
+php -S localhost:8080
+|d /
+|d Users\xx97\Desktop\
+cd Captive crm
+|ode .
+|s
+mkdir PHP101
+cd PHP101\
+|s
+|ode .
+|d ..
+|d /
+|d Users\xx97\Desktop\
+|s
+|aravel
+laravel new CRMCPTV
+|d CRMCPTV\
+|ode .
+|d /
+C:\Users\xx97\Desktop\CRMCPTV 
+|d /
+|d Users\xx97\Desktop\
+|s
+|d CRMCPTV\
+|ode .
+|d /
+|d Users\xx97\Desktop\CRMCPTV\
+|ode .
+|d /
+|d Users\xx97\
+|d Desktop\
+|d CRMCPTV\
+|ode .
+|d /
+|s
+|d Users\xx97\Desktop\CRMCPTV\
+|ode .
+|d /
+|d Users\xx97\Desktop\
+|d CRMCPTV\
+|ode .
+|d /
+|d Users\xx97\Desktop\CRMCPTV\
+|ode .
+|d /
+|d Users\xx97\Desktop\
+|lear
+|aravel
+laravel new atqn
+|ode .
+cd atqn
+code 
+|ode .
+|d ..
+|d /
+|d Users\xx97\Desktop\CRMCPTV\
+|ode .
+|d /
+|d Users\xx97\Desktop\
+laravel new ALHULUL-PAGE-BUILDER
+cd ALHULUL-PAGE-BUILDER\
+composer require hansschouten/phpagebuilder
+|ode .
+composer require haringsrob/laravel-page-builder
+|d /
+|d Users\xx97\Desktop\
+laravel new the-new-atqn
+cd the-new-atqn\
+|lear
+git init
+git add -A
+git commit -m "The New Atqn First Commit"
+|it remote add origin git@github.com:Younes-Belaabda/the_new_atqn.git
+git push -u -f origin main
+|it push
+git branch -M main
+|it push
+git remote add origin git@github.com:Younes-Belaabda/the_new_atqn.git
+git remote add main git@github.com:Younes-Belaabda/the_new_atqn.git
+|it push
+|it push --set-upstream origin main
+yyyyy
+git push --set-upstream origin main
+Y
+|d ..
+git clone https://github.com/Younes-Belaabda/the_new_atqn
+|d /
+|d Users\xx97\Desktop\
+|s
+cd the_new_atqn\
+|ode .
+|d /
+|d Users\xx97\Desktop\
+|s
+|d CRMCPTV\
+|ode .
+|d /
+|d Users\xx97\
+|d Desktop\
+|lear
+laravel new E-Learning
+cd E-Learning\
+|ode .
+|d /
+|s
+|d Users\xx97\
+|d Desktop\
+|s
+|d CRMCPTV\
+|ode .
+|d ..
+|d /
+|s
+|d Users\xx97\Desktop\
+|s
+|d CRMCPTV\
+|ode .
+cd ../../..
+|s
+|d Users\xx97\Desktop\
+|s
+|lear
+cd atqn-platform\
+|lear
+php artisan test
+|d ..
+|d ..
+|d Users\xx97\Desktop\
+|s
+cd foodrestau\
+|ode .
+|hp artisan serve
+|d ..
+|d ..
+|s
+|d Users\
+|s
+|d xx97\
+|s
+|d Desktop\
+|s
+|d CRMCPTV\
+|ode .
+|d ..
+|d ..
+|s
+|d Users\Default\
+|d ..
+|d xx97\
+|d Desktop\
+|d CRMCPTV\
+|ode .
+|d ~
+|d /
+|d Users\xx97\Desktop\
+laravel new CSPE_CRM
+|d CSPE_CRM\
+|ode .
+|d /
+|d Users\xx97\Desktop\CRMCPTV\
+|d ..
+|d CSPE_CRM\
+|ode .
+|d /
+|d Users\xx97\Desktop\CSPE_CRM\
+|ode .
+|d /
+|d Users\xx97\Desktop\CRMCPTV\
+|d ..
+cd CSPE_CRM\
+|ode .
+|d /
+cd Users\xx97\Desktop\CSPE_CRM\
+|ode .
+|d /
+|d Users\xx97\Desktop\
+laravel new the_new_atqn
+|d /
+|d Users\xx97\Desktop\the_new_atqn\
+|ode .
+|d /
+|d Users\xx97\Desktop\the_new_atqn\
+|ode .
+|d /
+cd Users\xx97\Desktop\the_new_atqn\
+|ode .
+|d ..
+|d ..
+|s
+|lear
+|s
+|d Users\
+|s
+|d xx97\
+|s
+|d Desktop\
+|s
+|lear
+laravel new ahd-7olol
+cd ahd-7olol\
+|ode .
+|d /
+|d Users\xx97\Desktop\
+|lear
+laravel new maternity-app
+|d /
+|d Users\xx97\Desktop\
+|lear
+|d maternity-app\
+|ode .
+|d /
+|d Users\xx97\
+|d Desktop\
+|d CRMCPTV\
+|ode .
+|d /
+cd Users\xx97\Desktop\CRMCPTV\
+|ode .
+|d ..
+|d maternity-app\
+|ode .
+|d /
+cd Users\xx97\
+|d Desktop\
+|d maternity-app\
+|ode .
+|d ..
+|d ..
+|d Users\xx97\Desktop\
+laravel new new-solution
+cd "new
+cd new-solution\
+|ode .
+|d /
+|d Users\xx97\Desktop\
+cd CRMCPTV\
+|ode .
+|d /
+|d Users\xx97\Desktop\
+|lear
+laravel new atqn-vip
+cd "atqn-vip\
+|ode .
+|d /
+|d Users\xx97\Desktop\
+git clone https://github.com/Younes-Belaabda/ambulance-safi
+|d ambulance-safi\
+|lear
+|omposer install
+|ode .
+|d /
+|d Users\xx97\Desktop\ambulance-safi\
+|ode .
+|d /
+|d Users\xx97\Desktop\
+cd maternity-app\
+|ode .
+|d /
+|d Users\xx97\Desktop\
+|s
+cd ambulance-safi\
+|ode .
+|d /
+|s
+|d Users\xx97\Desktop\
+|lear
+mkdir CSPE
+laravel new CSPE-CRM
+|d CSPE-CRM\
+|ode .
+|d ..
+|d ..
+|d C:\Users\xx97\Desktop\
+|d /
+cd C:\Users\xx97\Desktop\ambulance-safi\
+|ode .
+|d /
+cd Users\xx97\Desktop\cd CSPE-CRM
+|s
+|d Users\xx97\Desktop
+|s
+|lear
+cd CSPE-CRM\
+|lear
+|ode .
+|s
+|d ..
+|s
+cd CSPE
+|ode .
+|d ..
+|d cspe-1
+|ode .
+|d /
+|d Users\xx97\Desktop\cspe-1
+|ode .
+|d /
+|d Users\xx97\Desktop\cspe-1\
+|ode .
+|d /
+|s
+|d Users\xx97\Desktop\cspe-1
+|ode .
+|d /
+|d Users\xx97\Desktop\cspe-1\
+|ode .
+|hp artisan model:show contract
+php artisan model:show contract
+|s
+cd app\
+|s
+cd Models\
+|s
+|d ../..
+php artisan make:show Contrat
+php artisan model:show Contrat
+|d /
+cd Users\xx97\Desktop\ambulance-safi\
+|ode .
+|d /
+cd Users\xx97\Desktop\cspe-vitrine\
+|ode .
+|d /
+|s
+|d Users\xx97\Desktop\cspe-1\
+|ode .
+|d /
+|s
+cd Users\xx97\Desktop\cpse-1
+cd Users\xx97\Desktop
+|s
+|d cspe-1
+|ode .
+|d 
+l
+|d /
+|s
+|d Users\xx97\Desktop\
+laravel new PageBuilder
+cd PageBuilder\
+|ode .
+|d /
+|d Users\xx97\Desktop\
+|s
+cd cspe-1\
+|ode .
+|d /
+|s
+cd Users\xx97\w
+|s
+|d Users\
+|s
+|d xx97\
+|s
+|d Desktop\
+|s
+|d cspe-1
+|ode .
+|d ../..
+|d Users\xx97\Desktop\cspe-1\
+|ode .
+cd ../../
+|d Users\xx97\Desktop\
+|lear
+|d cspe-1
+|ode .
+cd ../..
+cd Users\xx97\Desktop\cspe-1\
+|ode .
+|d /
+|d Users\xx97\Desktop\cspe-1
+|ode .
+|d /
+|d Users\xx97\Desktop\
+|d cspe-1
+|ode .
+|d /
+|d Users\xx97\Desktop\cspe-1
+|ode .
+cd ../
+|d ..
+|d Users\xx97\Desktop\cspe-1
+|ode .
+|d /
+|d Users\xx97\Desktop\cspe-1
+|hp artisan serve
+|d /
+cd Users\xx97\Desktop\cspe-1
+|ode .
+|d /
+|d Users\xx97\Desktop\
+|d cspe-1
+|ode .
+|d /
+~/cspe-1
+C:\Users\xx97\Desktop\cspe-1
+C:\Users\xx97\Desktop\
+|d cspe-1
+|ode .
+|d /
+|d Users\xx97\Desktop\
+laravel new xAtqn
+cd xAtqn\
+|ode .
+|d /
+|d Users\xx97\Desktop\
+|lear
+laravel new the_new_solution
+cd the_new_solution\
+|ode .
+|d /
+|d Users\xx97\Desktop\
+|d cspe-1
+|ode .
+|d /
+|s
+cd Users\Default\
+|d ..
+cd deskt
+|d xx97\
+|d Desktop\
+|s
+|lear
+|d cspe-1
+|ode .
+|d !
+cd !
+|d /
+|d C:\Users\xx97\Desktop\cspe-1
+|ode .
+|d /
+|d C:\Users\xx97\Desktop\cspe-1
+|ode .
+|d /
+|s
+|d Users\xx97\Desktop\
+|s
+|d cspe-1
+|s
+php artisan migrate:fresh
+|hp artisan serve
+|ode .
+|d /
+|d C:\Users\xx97\Desktop\cspe-1
+|hp artisan serve
+|d /
+|d C:\Users\xx97\Desktop\cspe-1
+|ode .
+|d /
+|s
+cd Users\xx97\Desktop\
+|s
+|d cspe-1
+|s
+|ode .
+|d /
+|s
+|d /
+|s
+|d C:\Users\xx97\Desktop\maternity-app\
+|lear
+|hp artisan about
+|hp artisan 
+php artisan down
+|hp artisan about
+php artisan up
+|hp artisan about
+|lear
+php artisan config:show
+|hp artisan config:show database
+php artisan config:show database 
+php artisan config:show database
+php artisan about
+php artisan 
+|hp artisan db:show
+php artisan db:show
+|lear
+|ode .
+php artisan env:encrypt
+|hp artisan config:clear
+|d /
+|s
+cd C:\Users\xx97\Desktop\mat
+cd C:\Users\xx97\Desktop\maternity-app\
+|ode .
+|ode .
+|d /
+|d C:\Users\xx97\Desktop\
+|lear
+laravel new favosites
+|s 
+|d favosites\
+|ode .
+|d C:\Users\xx97\Desktop\
+|s
+|d favosites\
+|ode .
+|ode .
+cd /~/desktop
+|d /
+|d C:\Users\xx97\Desktop\
+cd favosites\
+|ode .
+|d /
+|s
+|d C:\Users\xx97\Desktop\favosites\
+|ode .
+|d /
+|s
+cd Users\xx97\Desktop\favosites\
+|ode .
+|d ~
+|d /
+cd C:\Users\xx97\Desktop\favosites\
+|ode .
+|d /
+|d C:\Users\xx97\Desktop\
+laravel new hakimCrud
+|s
+|d hakimCrud\
+|ode .
+|omposer require tcg/voyager
+|ode .
+|d /
+|d C:\Users\xx97\Desktop\
+ls 
+cd hakimCrud\
+|ode .
+|d /
+|s
+|d C:\Users\xx97\Desktop\
+|s
+cd cspe-1
+|ode .
+|d /
+|s
+|d C:\Users\xx97\Desktop\
+laravel new HakimTableApp
+composer require tcg/voyager
+cd HakimTableApp\
+|ode .
+|d /
+|d C:\Users\xx97\Desktop\
+|s
+laravel new daily-blog-backend
+|d daily-blog-backend\
+|ode .
+|d /
+|d C:\Users\xx97\Desktop\
+|s
+|d daily-blog-backend\
+|ode .
+|d /
+|s
+|d C:\Users\xx97\
+|s
+|d Desktop\
+|s
+ cd daily-blog-
+ cd daily-blog-backend\
+code ,
+|ode .
+|d /
+|d C:\Users\xx97\Desktop\G-Centre\
+|ode .
+|d /
+cd ~/cspe-1
+|d C:\Users\xx97\Desktop\cspe-1
+|ode .
+|d /
+cd C:\Users\xx97\Desktop\G-Centre\
+|ode .
+|d /
+|d C:\Users\xx97\Desktop\daily-blog-backend\
+|ode .
+|d /
+cd C:\Users\xx97\Desktop\cspe-1
+|ode .
+|d /
+|d C:\Users\xx97\Desktop\cspe-1\
+|it add .
+git commit -m "Sheet Api Insert Contrat"
+|it push
+|d /
+cd C:\Users\xx97\Desktop\daily-blog-backend\
+|hp artisan serve
+|hp artisan serve
+|d /
+|d C:\Users\xx97\Desktop\
+|s
+cd daily-blog-backend\
+|ode .
+|d /
+|d C:\Users\xx97\Desktop\
+|s
+cd G-Centre\
+|s
+|ode .
+|d /
+|s
+cd C:\Users\xx97\Desktop\cspe-1\
+|ode .
+|d /
+|d C:\Users\xx97\Desktop\
+laravel new crud-app
+|d /
+cd "C:\Users\xx97\Desktop\Captive-Management-System\
+|lear
+.\vendor\phpunit\
+.\vendor\phpunit\ ./tests\SimpleTest
+|s
+cd php
+cd phpunit\
+|lear
+|s
+phpunit
+./phpunit
+|d /
+|s
+|d C:\Users\xx97\Desktop\
+|lear
+laravel new server-video-uploader
+|lear
+|s
+cd server-video-uploader\
+|lear
+|hp artisan serve
+|d /
+|s
+|d C:\Users\xx97\Desktop\
+laravel new file-manager
+cd file-manager\
+|lear
+|ode .
+|d /
+|d C:\Users\xx97\Desktop\
+git init https://github.com/UniSharp/laravel-filemanager-example-5.3
+git clonehttps://github.com/UniSharp/laravel-filemanager-example-5.3
+git clone https://github.com/UniSharp/laravel-filemanager-example-5.3
+cd laravel-filemanager-example-5.3\
+|ode .
+|omposer install
+|d /
+|d C:\Users\xx97\Desktop\
+|lear
+laravel new FM-Laravel
+code FM-Laravel\
+|d /
+|s
+|d C:\Users\xx97\Desktop\
+|s
+|lear
+git clone https://github.com/Younes-Belaabda/ohm-rendez-vous
+cd ohm-rendez-vous\
+|ode .
+cd .
+|d ..
+laravel new OHM
+|d /
+|d C:\Users\xx97\Desktop\
+|lear
+laravel new CallManagerCRM
+cd CallManagerCRM\
+|ode .
+|d /
+|d C:\Users\xx97\
+|d Desktop\
+|lear
+laravel new ajir-project
+cd ajir-project\
+|ode .
+|erl
+perl
+perl -v
+|s
+cd XFilesharing\
+|s
+cd cgi-bin\
+|s
+perl .index.cgi
+perl .index.cgi*
+perl -h
+perl -S localhost:8080
+perl -S -h
+|d ..
+|d ..
+cd xampp\
+|s
+cd web
+cd htdocs\perl\
+|lear
+|s -al index.cgi 
+chmo 775 index.cgi 
+chmod 775 index.cgi 
+|s -al index.cgi 
+chmod 777 index.cgi 
+ls -al index.cgi 
+|d ..
+ls -al perl\
+|aravel
+laravel -v
+|aravel
+|d /
+|d C:\Users\xx97\Desktop\
+|lear
+laravel new plplinee
+|d plplinee\
+|ode .
+telnet
+|s
+|d RatchetIO\
+|lear
+|hp bin/chat-server.php
+|d RatchetIO\
+|elnet localhost 8080
+|d RatchetIO\
+|elnet localhost 8080
+|d RatchetIO\
+|lear
+|d RatchetIO\
+|lear
+|elnet localhost 8080
+cd RatchetIO\
+|elnet localhost 8080
+telnet localhost 8080
+|lear
+php bin/chat-server.php
+node
+|lear
+|pm -v
+node -V
+node -v
+npm -v
+|d ~
+|d /
+|d C:\Users\xx97\Desktop\www\
+|lear
+|s
+|d plplinee\
+|lear
+|pm run dev
+|pm run dev
+|pm install
+|pm install
+|pm run build
+|pm run build
+|pm run build
+|pm run build
+|pm run build
+|pm install
+|pm run build
+|pm run build
+|pm run build
+|pm run build
+|pm run build
+|pm run build
+|pm run build
+|pm run build
+|pm run build
+|pm run build
+|pm run build
+|pm run build
+|lear
+|pm run build
+|pm run build
+npm i jquery
+|pm run build
+|pm run build
+|pm run build
+|pm run build
+|pm run build
+|pm run build
+|pm run build
+|pm run build
+|pm run dev
+|pm run build
+|pm run build
+|pm install
+|pm run build
+|d /
+|d C:\Users\xx97\
+|d Desktop\
+|lear
+|d www\
+|d plplinee\
+|lear
+|pm run build
+|pm run build
+npm install jquery
+npm i bootstrap
+|pm run build
+|pm run build
+|pm run build
+|pm run build
+|pm run build
+|pm i simplebar
+|pm i simplebar
+|ew SimpleBar(document.getElementById('myElement'));
+new SimpleBar(document.getElementById('myElement'));
+npm i simplebar
+|pm run build
+|pm run build
+|pm run build
+npm i swiper
+|pm run build
+|pm install
+|pm run build
+|pm run build
+|pm run build
+|pm run build
+|pm run build
+|pm install
+|pm run build
+|pm install
+|d /
+|d C:\Users\xx97\Desktop\www\plplinee\
+|lear
+|pm run build
+|pm run build
+npm run watch
+npm run -h
+|pm run dev
+|d /
+|d C:\Users\xx97\Desktop\www\plplinee\
+|lear
+npm i flowbite-datepicker
+npm i tailwind
+|d /
+|d C:\Users\xx97\Desktop\www\plplinee\
+|pm run dev
+|d /
+cd C:\Users\xx97\Desktop\pl
+|d C:\Users\xx97\Desktop\www\plplinee\
+|lear
+|lear
+|pm run build
+|pm run dev
+npm install -D tailwindcss postcss autoprefixer
+|pm run build
+|lear
+npm install
+|pm run build
+|pm run dev
+|pm run build
+|pm run build
+npm install -D sass
+|pm run build
+|pm run dev
+|pm run build
+|pm run dev
+cd 
+|d /
+cd C:\Users\xx97\
+|lear
+|d Desktop\
+|d www\plplinee\
+|lear
+|pm run build
+|pm run dev
+|d /
+|d C:\Users\xx97\Desktop\www\plplinee\
+|lear
+|pm run dev
+ؤي ظ
+|d /
+cd C:\Users\xx97\Desktop\www\
+|d plplinee\
+|lear
+|ode .
+|pm run dev
+|d /
+|d C:\Users\xx97\Desktop\www\plplinee\
+|pm run dev
+|d /
+|d C:\Users\xx97\Desktop\www\plplinee\
+|lear
+|pm run dev
+|d /
+|d C:\Users\xx97\Desktop\
+|s
+|d www\
+|s
+|d plplinee\
+|lear
+|pm run build
+|pm run dev
+|d /
+|d C:\Users\xx97\Desktop\
+|lear
+|s
+|d www\
+|lear
+|s
+|d plplinee\
+|lear
+|pm run dev
+|pm run build
+|pm run dev
+|pm run build
+|pm run build
+|pm run build
+|pm run build
+|pm run build
+|pm run build
+|pm run build
+|d /
+|d C:\Users\xx97\Desktop\www\plplinee\
+|lear
+|pm run build
+|pm run dev
+|d /
+|s
+|d C:\Users\xx97\Desktop\www\plplinee\
+|lear
+|pm run dev
+|d /
+|d C:\Users\xx97\Desktop\www\plplinee\
+|lear
+|hp artisan test --filter AddProjectByClientTest
+|lear
+|hp artisan test --filter AddProjectByClientTest
+|hp artisan test --filter AddProjectByClientTest
+|lear
+|hp artisan test --filter AddProjectByClientTest
+|lear
+|hp artisan test --filter AddProjectByClientTest
+|lear
+|hp artisan test --filter AddProjectByClientTest
+|lear
+|hp artisan test --filter AddProjectByClientTest
+|lear
+|hp artisan test --filter AddProjectByClientTest
+|lear
+|hp artisan test --filter AddProjectByClientTest
+|hp artisan test --filter AddProjectByClientTest
+|lear
+|hp artisan test --filter AddProjectByClientTest
+|hp artisan test --filter AddProjectByClientTest
+|lear
+|hp artisan test --filter AddProjectByClientTest
+|lear
+|hp artisan test --filter AddProjectByClientTest
+|hp artisan test --filter AddProjectByClientTest
+|hp artisan test --filter AddProjectByClientTest
+|d /
+|d C:\Users\xx97\Desktop\www\plplinee\
+|pmrun build
+|pm run build
+npmrun build
+|pm run build
+|pm run dev
+|d /
+|d C:\Users\xx97\Desktop\www\plplinee\
+|pm run build
+|pm run dev
+|d /
+|d C:\Users\xx97\Desktop\www\plplinee\
+|lear
+|hp artisan test --filter ShowProjectTest
+|hp artisan test --filter ShowProjectTest
+|lear
+|hp artisan test --filter ShowProjectTest
+|lear
+|hp artisan test --filter ShowProjectTest
+|hp artisan test --filter ShowProjectTest
+|hp artisan test --filter ShowProjectTest
+|hp artisan test --filter ShowProjectTest
+|lear
+|hp artisan test --filter ShowProjectTest
+|lear
+|hp artisan test --filter ShowProjectTest
+|hp artisan test --filter ShowProjectTest
+|lear
+php artisan test --filter ShowProjectTest
+|d /
+|d C:\Users\xx97\Desktop\www\plplinee\
+|lear
+|hp artisan test --filter AddProjectByClientTest
+|lear
+php artisan test 
+|lear
+|hp artisan test --filter AddProjectByClientTest
+|lear
+|hp artisan test --filter AddProjectByClientTest
+|lear
+|hp artisan test --filter AddProjectByClientTest
+|hp artisan test --filter AddProjectByClientTest
+|hp artisan test --filter AddProjectByClientTest
+|hp artisan test --filter AddProjectByClientTest
+php artisan test --filter AddProjectByClientTest
+|lear
+|pm run dev
+|pm run build
+|pm run build
+|pm run dev
+|d /
+|d C:\Users\xx97\Desktop\www\plplinee\
+|lear
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|lear
+|lear
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|lear
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|lear
+|lear
+|hp artisan test --filter AddChatTaskTest
+php artisan cache:clear
+php artisan cache -h
+php artisan test -h
+|lear
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|lear
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|lear
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|lear
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|lear
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|lear
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|lear
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan config:clear
+|hp artisan test --filter AddChatTaskTest
+|lear
+|lear
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan config:clear
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|lear
+|hp artisan test --filter AddChatTaskTest
+php artisan config:clear
+|lear
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|lear
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|hp artisan test --filter AddChatTaskTest
+|lear
+|hp artisan test --filter AddChatTaskTest
+php artisan test --filter AddChatTaskTest
+|pm run build
+|pm run dev
+|d /
+|d C:\Users\xx97\Desktop\www\plplinee\
+|lear
+|pm run dev
+|d /
+|d C:\Users\xx97\Desktop\www\plplinee\
+|lear
+|pm run build
+|d /
+|d C:\Users\xx97\Desktop\www\plplinee\
+|pm run dev
+|d /
+|s
+cd Users\
+|s
+cd xx97\
+|s
+cd Desktop\
+|s
+cd www\
+|s
+cd plplinee\
+|lear
+|pm run dev
+|d /
+|d C:\Users\xx97\Desktop\www\plplinee\
+|pm run dev
+|d /
+|d C:\Users\xx97\Desktop\www\plplinee\
+|lear
+|pm run build
+|pm run dev
+|d /
+|d C:\Users\xx97\Desktop\www\plplinee\
+|lear
+npm run dev
+|d /
+|d C:\Users\xx97\Desktop\
+cd www\plplinee\
+|lear
+|pm run build
+|d /
+|s
+cd C:\Users\xx97\Desktop\www\plplinee\
+npm run build
+cd/
+|d C:\Users\xx97\Desktop\
+|lear
+laravel new projects-management
+cd projects-management\
+|ode .
+|d C:\Users\xx97\Desktop\
+|lear
+laravel new Saoud-Managment
+cd Saoud-Managment\
+|ode .
+brew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+bin
+bash
+cd /
+|d C:\Users\xx97\Desktop\
+|lear
+laravel new deadline_management
+laravel
+|s
+cd CryptoE\
+|s
+chmod 777 install.php 
+|hp -v
+|d ~
+|d C:\Users\xx97\Desktop\
+|aravel new tweet-app
+|aravel new tweet-app
+laravel new tweet-app
+|d ~
+cd ~/
+|d C:\Users\xx97\Desktop\
+|lear
+cd crypto\
+|lear
+cp .env.example .env
+|omposer install --no-scripts --no-dev
+|hp -v
+|hp -v
+|d C:\Users\xx97\Desktop\crypto\
+|lear
+|omposer install --no-scripts --no-dev
+|hp -v
+|d C:\Users\xx97\Desktop\crypto\
+|omposer install --no-scripts --no-dev
+|omposer install --no-dev
+|hp artisan key:generate
+|omposer install --no-scripts --no-dev
+|hp artisan key:generate
+|omposer install --no-dev
+|omposer require predis/predis
+|omposer require predis/predis
+|omposer require predis/predis
+|omposer require predis/predis
+|omposer require predis/predis
+|omposer install --no-scripts --no-dev
+|omposer install --no-dev
+|omposer update
+composer update
+|omposer install --no-scripts --no-dev
+|omposer install --no-scripts --no-dev
+|omposer install --no-dev
+|omposer install --no-dev
+|ode .
+php artisan key:generate
+composer require predis/predis
+redis
+redis-cli
+redis-server
+cd C:\Users\xx97\Desktop\crypto\
+composer install --no-scripts --no-dev
+composer install --no-dev
+|ode .
+|hp -v
+|d ~
+|d C:\Users\xx97\Desktop\GEnergiesMailer\
+|ode .
+cd C:\Users\xx97\Desktop\
+|s
+|d GEnergiesMailer\
+|ode .
+|d C:\Users\xx97\Desktop\GEnergiesMailer\
+|ode .
+cd C:\Users\xx97\Desktop\GroupEnergieCRM\
+|s
+|hp artisan serve
+|d ..
+cd GEnergiesMailer\
+|hp artisan serve
+|d C:\Users\xx97\Desktop\GEnergiesMailer\
+|it add .
+|it commit -m 'wip'
+|it push
+cd C:\Users\xx97\Desktop\GEnergiesMailer\
+|it status
+git add .
+git commit -m 'wip'
+git push
+cd ~
+|s
+cd C:\Users\xx97\Desktop\MailerEnergie\
+|ode .
+mysql
+cd C:\Users\xx97\Desktop\JewelryStore\
+|ode .
+|d C:\Users\xx97\Desktop\CaptiveHelper\
+|lear
+./vendor/bin/phpunit .\tests\ --debug
+|s
+./vendor/bin/phpunit .\tests\
+vendor/bin/phpunit tests
+.\vendor\bin\phpunit tests\
+|lear
+|\vendor\bin\phpunit tests
+|lear
+|\vendor\bin\phpunit tests --debug
+|\vendor\bin\phpunit tests --debug
+|\vendor\bin\phpunit tests --debug
+|lear
+.\vendor\bin\phpunit tests --debug
+clea
+|lear
+|\vendor\bin\phpunit tests
+|\vendor\bin\phpunit tests
+|lear
+|\vendor\bin\phpunit tests
+|\vendor\bin\phpunit tests
+|lear
+|\vendor\bin\phpunit tests
+|\vendor\bin\phpunit tests
+|\vendor\bin\phpunit tests
+|\vendor\bin\phpunit tests
+|lear
+|lear
+|\vendor\bin\phpunit tests
+|\vendor\bin\phpunit tests
+|\vendor\bin\phpunit tests
+|\vendor\bin\phpunit tests
+|\vendor\bin\phpunit tests
+cd C:\Users\xx97\Desktop\CaptiveHelper\
+|lear
+|\vendor\bin\phpunit tests --filter=DbRODTTest
+.\vendor\bin\phpunit tests --filter=DbRODTTest
+|\vendor\bin\phpunit tests --filter=DbRODTTest --debug
+|\vendor\bin\phpunit tests --filter=DbRODTTest --debug
+|\vendor\bin\phpunit tests --filter=DbRODTTest --debug
+|\vendor\bin\phpunit tests --filter=DbRODTTest --debug
+|\vendor\bin\phpunit tests --filter=DbRODTTest --debug
+|\vendor\bin\phpunit tests --filter=DbRODTTest --debug
+|\vendor\bin\phpunit tests --filter=DbRODTTest --debug
+|\vendor\bin\phpunit tests --filter=DbRODTTest --debug
+|\vendor\bin\phpunit tests --filter=DbRODTTest --debug
+|\vendor\bin\phpunit tests --filter=DbRODTTest --debug
+|\vendor\bin\phpunit tests --filter=DbRODTTest 
+|\vendor\bin\phpunit tests --filter=DbRODTTest 
+|\vendor\bin\phpunit tests --filter=DbRODTTest 
+|\vendor\bin\phpunit tests --filter=DbRODTTest --debug
+|\vendor\bin\phpunit tests --filter=DbRODTTest --debug
+|\vendor\bin\phpunit tests --filter=DbRODTTest 
+|lear
+|\vendor\bin\phpunit tests --filter=DbRODTTest 
+|\vendor\bin\phpunit tests --filter=DbRODTTest 
+|\vendor\bin\phpunit tests --filter=DbRODTTest 
+|\vendor\bin\phpunit tests --filter=DbRODTTest 
+|\vendor\bin\phpunit tests --filter=DbRODTTest --debug
+|\vendor\bin\phpunit tests --filter=DbRODTTest --debug
+|\vendor\bin\phpunit tests --filter=DbRODTTest --debug
+|\vendor\bin\phpunit tests --filter=DbRODTTest --debug
+|\vendor\bin\phpunit tests --filter=DbRODTTest --debug
+|\vendor\bin\phpunit tests --filter=DbRODTTest 
+|lear
+.\vendor\bin\phpunit tests --filter=DbRODTTest 
+|\vendor\bin\phpunit tests --filter=DbRODTTest --debug
+|\vendor\bin\phpunit tests --filter=DbRODTTest --debug
+|\vendor\bin\phpunit tests --filter=DbRODTTest --debug
+.\vendor\bin\phpunit tests --filter=DbRODTTest --debug
+.\vendor\bin\phpunit tests --filter=DbRODTTest::testInsert --debug
+|\vendor\bin\phpunit tests --filter=DbRODTTest::testExist --debug
+|\vendor\bin\phpunit tests --filter=DbRODTTest::testExist
+|\vendor\bin\phpunit tests --filter=DbRODTTest::testExist
+|\vendor\bin\phpunit tests --filter=DbRODTTest::testExist
+|lear
+|\vendor\bin\phpunit tests --filter=DbRODTTest::testExist --debug
+.\vendor\bin\phpunit tests --filter=DbRODTTest::testExist --debug
+.\vendor\bin\phpunit tests --filter=DbRODTTest::testExist
+.\vendor\bin\phpunit tests
+.\vendor\bin\phpunit tests --filter=RecapOfTheDayTest
+|\vendor\bin\phpunit tests --filter=DbRODTTest::testUpdate
+|\vendor\bin\phpunit tests --filter=DbRODTTest::testUpdate --debug
+|\vendor\bin\phpunit tests --filter=DbRODTTest::testUpdate --debug
+|\vendor\bin\phpunit tests --filter=DbRODTTest::testUpdate --debug
+|\vendor\bin\phpunit tests --filter=DbRODTTest::testUpdate --debug
+|\vendor\bin\phpunit tests --filter=DbRODTTest::testUpdate --debug
+|\vendor\bin\phpunit tests --filter=DbRODTTest::testUpdate --debug
+.\vendor\bin\phpunit tests --filter=DbRODTTest::testUpdate --debug
+|lear
+|\vendor\bin\phpunit tests --filter=DbRODTTest::testUpdate
+.\vendor\bin\phpunit tests --filter=DbRODTTest::testUpdate
+|ass
+|lear
+cd C:\Users\xx97\Desktop\CaptiveCall2.0\
+|d ..
+|s
+cd CaptiveHelper\
+sass
+|s
+cd drupal
+|s
+|ode .
+|hp -v
+|hp -v
+|s
+|s
+|d sju\
+|omposer install
+|lear
+cd ..
+laravel new sju
+|s
+clear
+|s
+|d sju\
+|s
+code .
+|omposer install
+|s
+cd sju\
+ls
+composer install
+php artisan migrate
+|hp artisan serve
+|hp artisan serve
+git status
+|hp -v
+php artisan serve
+php -v
