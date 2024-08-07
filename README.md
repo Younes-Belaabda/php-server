@@ -9,8 +9,8 @@ web server with php to php .
 
 # How to change server port ?
 1. open server.sh on editor
-2. change [php -S 127.0.0.1:<custom-port> -t public]
+2. change php -S 127.0.0.1:*custom-port* -t public
 
 # How to change public folder ?
 1. open server.sh on editor
-2. change [php -S 127.0.0.1:8080 -t <custom-folder>]
+2. change php -S 127.0.0.1:8080 -t *custom-folder*
